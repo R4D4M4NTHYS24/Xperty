@@ -20,6 +20,22 @@ a:hover{
 a:focus{
 	outline:none;
 }
+
+.btn-botom{
+
+	margin: 30px;
+  	background-color: black;
+  	margin-left: 64%;
+  	width: 20%;  			 	
+  	padding: 10px;
+  	color: white;
+  	border: 0;
+  	cursor: pointer;
+  	border-radius: 2px; 
+
+
+}
+
 .btn-link:hover, .btn-link:focus {
     text-decoration: none;
 }
